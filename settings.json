@@ -1,0 +1,11 @@
+{
+  "packages": {
+    "service-configuration": {
+      "github": {
+        "loginStyle": "popup",
+        "clientId": "",
+        "secret": ""
+      }
+    }
+  }
+}
